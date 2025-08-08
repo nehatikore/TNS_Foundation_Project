@@ -1,0 +1,5 @@
+The songs/ folder in this project contains all the audio files used by the music player. These are typically .mp3 files that are played when the user interacts with the player interface.
+Purpose:
+Stores all song files required for playback.
+Used by the JavaScript code to load and play songs based on the playlist configuration.
+Keeps the project organized by separating media files from code files.
